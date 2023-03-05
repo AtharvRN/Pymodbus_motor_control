@@ -1,0 +1,2 @@
+motor_control
+-DCATKIN_DEVEL_PREFIX=/home/acdc/testing/motors/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/acdc/testing/motors/catkin_ws/install -G Unix Makefiles

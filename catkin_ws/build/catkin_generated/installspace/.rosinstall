@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/acdc/testing/motors/catkin_ws/install/setup.sh
